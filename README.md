@@ -1,0 +1,1 @@
+This is a repository that will contain information on JavaScript methods. It will have the method, how to utilize it and an example of it being used with each step explained. 
